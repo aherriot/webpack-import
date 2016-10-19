@@ -1,0 +1,26 @@
+{
+  "name": "webpack-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aherriot/webpack-import.git"
+  },
+  "keywords": [
+    "webpack",
+    "import"
+  ],
+  "author": "Andrew Herriot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aherriot/webpack-import/issues"
+  },
+  "homepage": "https://github.com/aherriot/webpack-import#readme",
+  "dependencies": {
+    "webpack": "^2.1.0-beta.25"
+  }
+}
