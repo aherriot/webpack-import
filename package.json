@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,12 +16,12 @@
     "import"
   ],
   "author": "Andrew Herriot",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aherriot/webpack-import/issues"
   },
   "homepage": "https://github.com/aherriot/webpack-import#readme",
   "dependencies": {
-    "webpack": "^2.1.0-beta.25"
+    "webpack": "2.1.0-beta.25"
   }
 }
